@@ -1,7 +1,13 @@
-# FiveM Website Template:
+# 🚔 FiveM Website Template
+A static Tailwind CSS template designed for FiveM communities. This template is easy to customize and can be adapted to fit your server’s branding or features.
 
-This is just a static tailwindcss fivem website template and can be easily updated, if you find any bugs or problems with the site or need support please open a ticket in our discord.
+If you encounter any bugs, issues, or need support, feel free to open a ticket in our Discord. https://discord.gg/8aFQbWD4dp
 
-You can find free web hosting providers here:
-infinityfree: https://www.infinityfree.com/
-Netlify: https://www.netlify.com/
+🌐 Free Hosting Options
+You can host this site for free using one of the following providers:
+
+🔗 InfinityFree: https://www.infinityfree.com/
+
+🔗 Netlify: https://www.netlify.com/
+
+Let me know if you want to add a screenshot, live demo link, or Discord invite URL — I can format those too!
