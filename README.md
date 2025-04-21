@@ -10,4 +10,4 @@ You can host this site for free using one of the following providers:
 
 🔗 Netlify: https://www.netlify.com/
 
-Let me know if you want to add a screenshot, live demo link, or Discord invite URL — I can format those too!
+Made with love - GhostNodes
