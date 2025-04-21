@@ -11,4 +11,4 @@ You can host this site for free using one of the following providers:
 🔗 Netlify: https://www.netlify.com/
 
 Made with love - GhostNodes Services
-DEMO - https://fivemwebtemplate.netlify.app/
+ / DEMO - https://fivemwebtemplate.netlify.app/
